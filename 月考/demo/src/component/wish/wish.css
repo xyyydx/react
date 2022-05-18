@@ -1,0 +1,35 @@
+header{
+    width: 100%;
+    padding: 20px;
+    background: white;
+}
+p{
+    display: flex;
+    align-items: center;
+    margin-top: 1rem;
+}
+.search{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 20px;
+    padding: 20px;
+    background: white;
+}
+.ant-input{
+    width: 40%;
+}
+.searchIpt>span{
+    margin-left: 20px;
+}
+.wishMain{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.wishItem{
+    width: 30%;
+    padding: 20px;
+    background: white;
+    margin-top: 20px;
+}
